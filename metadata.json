@@ -1,0 +1,7 @@
+{
+  "name": "FuelTrack AI — Nutrition & Protein Tracker",
+  "description": "Smart, mobile-first nutrition and protein tracker powered by Gemini AI. Scan meal photos or describe meals in plain language with Pakistani and international food intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
